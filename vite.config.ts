@@ -51,7 +51,7 @@ export default defineConfig({
   },
   build: {
     target: 'esnext',
-    outDir: 'dist', // hasil build di folder "build"
+    outDir: 'build', // hasil build di folder "build"
   },
    base: './',
   server: {
